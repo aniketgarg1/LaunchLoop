@@ -1,0 +1,64 @@
+<svg width="560" height="280" viewBox="0 0 560 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="32" y1="20" x2="520" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#09090F" />
+      <stop offset="0.5" stop-color="#111127" />
+      <stop offset="1" stop-color="#08211F" />
+    </linearGradient>
+    <linearGradient id="accentGradient" x1="96" y1="54" x2="230" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6366F1" />
+      <stop offset="0.55" stop-color="#8B5CF6" />
+      <stop offset="1" stop-color="#14B8A6" />
+    </linearGradient>
+    <linearGradient id="logoBgGradient" x1="0" y1="0" x2="80" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6366F1" />
+      <stop offset="0.55" stop-color="#8B5CF6" />
+      <stop offset="1" stop-color="#14B8A6" />
+    </linearGradient>
+    <linearGradient id="logoLoopGradient" x1="25" y1="24" x2="69" y2="72" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EEF2FF" />
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.92" />
+    </linearGradient>
+    <filter id="glowBlur" x="-80" y="-80" width="720" height="440" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="40" />
+    </filter>
+  </defs>
+
+  <rect width="560" height="280" rx="28" fill="url(#bgGradient)" />
+  <rect x="1" y="1" width="558" height="278" rx="27" stroke="white" stroke-opacity="0.08" />
+
+  <g filter="url(#glowBlur)" opacity="0.8">
+    <circle cx="118" cy="86" r="68" fill="#6366F1" fill-opacity="0.28" />
+    <circle cx="458" cy="220" r="62" fill="#14B8A6" fill-opacity="0.18" />
+    <circle cx="270" cy="150" r="86" fill="#8B5CF6" fill-opacity="0.14" />
+  </g>
+
+  <rect x="34" y="34" width="216" height="212" rx="24" fill="white" fill-opacity="0.03" />
+  <rect x="34" y="34" width="216" height="212" rx="24" stroke="white" stroke-opacity="0.08" />
+
+  <circle cx="142" cy="140" r="72" fill="url(#accentGradient)" fill-opacity="0.22" />
+
+  <g transform="translate(102 100)">
+    <rect x="8" y="8" width="80" height="80" rx="22" fill="url(#logoBgGradient)" />
+    <path d="M30 29V68H56.5C63.4036 68 69 62.4036 69 55.5C69 48.5964 63.4036 43 56.5 43H42.5V55H55.2C57.851 55 60 52.851 60 50.2C60 47.549 57.851 45.4 55.2 45.4H40.5V36.4H56.2C66.583 36.4 75 44.817 75 55.2C75 65.583 66.583 74 56.2 74H24V29H30Z" fill="url(#logoLoopGradient)" />
+    <path d="M38.2 22.5H24.2V28.2H38.2V22.5Z" fill="#EEF2FF" fill-opacity="0.9" />
+  </g>
+
+  <g opacity="0.9">
+    <rect x="283" y="78" width="94" height="28" rx="14" fill="white" fill-opacity="0.07" />
+    <text x="330" y="97" text-anchor="middle" fill="#C4B5FD" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">AI EVENT KIT</text>
+  </g>
+
+  <text x="283" y="140" fill="white" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="800">LaunchLoop</text>
+  <text x="283" y="176" fill="#D4D4D8" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="500">
+    From one event brief to a full promo campaign.
+  </text>
+  <text x="283" y="205" fill="#A1A1AA" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500">
+    Posters " Reel " Voiceover " Music " Download Kit
+  </text>
+
+  <g opacity="0.95">
+    <rect x="283" y="222" width="154" height="16" rx="8" fill="white" fill-opacity="0.05" />
+    <rect x="451" y="222" width="64" height="16" rx="8" fill="url(#accentGradient)" fill-opacity="0.8" />
+  </g>
+</svg>
