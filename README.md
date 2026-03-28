@@ -12,6 +12,9 @@ From one form submission, it creates:
 
 It is built for hackathons, college events, product launches, and demo-day style campaigns where speed matters more than running a full creative pipeline by hand.
 
+<img width="1496" height="749" alt="image" src="https://github.com/user-attachments/assets/2a2567a1-853a-4fd3-a8e5-31a86157b7a3" />
+
+
 ## What It Does
 
 Users enter their event details once, optionally upload a logo and QR code, and LaunchLoop automatically:
