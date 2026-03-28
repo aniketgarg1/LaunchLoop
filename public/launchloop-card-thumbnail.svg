@@ -49,16 +49,16 @@
     <text x="330" y="97" text-anchor="middle" fill="#C4B5FD" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">AI EVENT KIT</text>
   </g>
 
-  <text x="283" y="140" fill="white" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="800">LaunchLoop</text>
-  <text x="283" y="176" fill="#D4D4D8" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="500">
-    From one event brief to a full promo campaign.
+  <text x="283" y="138" fill="white" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="800">LaunchLoop</text>
+  <text x="283" y="170" fill="#D4D4D8" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="500">
+    One brief to a full promo campaign.
   </text>
-  <text x="283" y="205" fill="#A1A1AA" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500">
-    Posters " Reel " Voiceover " Music " Download Kit
+  <text x="283" y="198" fill="#A1A1AA" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500">
+    Posters | Reel | Voiceover | Music | Kit
   </text>
 
   <g opacity="0.95">
-    <rect x="283" y="222" width="154" height="16" rx="8" fill="white" fill-opacity="0.05" />
-    <rect x="451" y="222" width="64" height="16" rx="8" fill="url(#accentGradient)" fill-opacity="0.8" />
+    <rect x="283" y="216" width="146" height="14" rx="7" fill="white" fill-opacity="0.05" />
+    <rect x="439" y="216" width="58" height="14" rx="7" fill="url(#accentGradient)" fill-opacity="0.8" />
   </g>
 </svg>
